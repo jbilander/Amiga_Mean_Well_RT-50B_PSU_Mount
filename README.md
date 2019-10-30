@@ -308,4 +308,30 @@ I glued the standoffs one-by-one using a screw and the bracket to get them in co
 <img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic34.jpg" width="189" height="252">
 </a>
 
+***
+
+Made some more clearance for the power wires and mounted the Mean Well.
+
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic35.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic35.jpg" width="189" height="252">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic36.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic36.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic37.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic37.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic38.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic38.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic39.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic39.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic40.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic40.jpg" width="252" height="189">
+</a>
+
+
+
 Under construction...
