@@ -310,7 +310,7 @@ I glued the standoffs one-by-one using a screw and the bracket to get them in co
 
 ***
 
-Made some more clearance for the power wires and mounted the Mean Well.
+Made some more clearance for the power wires and mounted the Mean Well PSU.
 
 
 <a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic35.jpg">
@@ -332,6 +332,52 @@ Made some more clearance for the power wires and mounted the Mean Well.
 <img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic40.jpg" width="252" height="189">
 </a>
 
+I used some power resistors to get a dummy load on. Check <a href="https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B">here</a> for reason behind this. The dummy load energy dissipates as heat, hence the placement of the resistors touching the case that acts as a heat sink.
 
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic41.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic41.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic42.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic42.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic43.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic43.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic44.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic44.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic45.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic45.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic46.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic46.jpg" width="252" height="189">
+</a>
 
-Under construction...
+Checking potentials and verifying cable...
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic48.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic48.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic49.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic49.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic50.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic50.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic51.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic51.jpg" width="141" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic52.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic52.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic53.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic53.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic54.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic54.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic55.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic55.jpg" width="252" height="189">
+</a>
+
+All done!
