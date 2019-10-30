@@ -15,7 +15,6 @@ The 3d-models are created in DesignSpark Mechanical 4.0
 
 These two brackets fit different versions of the A500 PSU Enclosure
 
-
 ### Version 1
 
 I did this 3d-print in ABS filament 250°/120° (Nozzle/Bed). It took ~4 hours. As you can see it is a snug fit in this old type of PSU case. I had to sand off a little of the ventilation fins on the sides in order for the Mean Well to fit in the case.
@@ -77,6 +76,8 @@ I printed a standoff as well and glued it on to support the bracket. The standof
 ***
 
 Wiring it up...
+
+Attention: Read the <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a> before doing any electrical work yourself.
 
     Yellow = GND/Shield/Earth (double check this is indeed shield, in some cables yellow is in connection with red +5V and shield is other wire)
     White = -12V
