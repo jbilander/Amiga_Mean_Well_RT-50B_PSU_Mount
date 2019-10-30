@@ -282,4 +282,30 @@ I went medieval with a cutter on the annoying plastic, marked red below, to acco
 
 ***
 
+Now this type of enclosure didn't have any standoffs so I made one and printed it five times...The standoff is 6mm high which is enough of clearance for running wires under the bracket.
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic29.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic29.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic30.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic30.jpg" width="252" height="189">
+</a>
+
+***
+
+I glued the standoffs one-by-one using a screw and the bracket to get them in correct positions.
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic31.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic31.jpg" width="189" height="252">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic32.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic32.jpg" width="189" height="252">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic33.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic33.jpg" width="189" height="252">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic34.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic34.jpg" width="189" height="252">
+</a>
+
 Under construction...
