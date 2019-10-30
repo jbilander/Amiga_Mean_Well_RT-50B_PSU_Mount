@@ -166,5 +166,69 @@ I did this 3d-print in ABS filament 250°/120° (Nozzle/Bed). It took ~4 hours. 
 <img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic7.jpg" width="252" height="189">
 </a>
 
+***
+
+I took the screw from the Mean Well and reused it.
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic8.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic8.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic9.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic9.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic10.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic10.jpg" width="252" height="189">
+</a>
+
+***
+
+Wiring it up...
+
+Attention: Read the <a href="LEGAL_DISCLAIMER.md">Legal Disclaimer</a> before doing any electrical work yourself.
+
+    Brown = Line 230V
+    Blue = Neutral
+    Green/Yellow = GND
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic11.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic11.jpg" width="252" height="189">
+</a>
+
+<br />
+
+<a href="images/Amiga_PSU_pinout_pic1.jpg">
+<img src="images/Amiga_PSU_pinout_pic1.jpg" width="262" height="200">
+</a>
+<a href="images/Amiga_PSU_pinout_pic2.JPG">
+<img src="images/Amiga_PSU_pinout_pic2.JPG" width="152" height="202">
+</a>
+
+
+    Thick Black = GND/Shield/Earth (NOT yellow here as that one was connected with red +5V in this cable)
+    White = -12V
+    Brown = +12V
+    Red = +5V
+    Yellow = +5V (not needed/used here)
+    Black = 0V/Signal GND
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic12.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic12.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic13.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic13.jpg" width="252" height="189">
+</a>
+
+
+I used some power resistors to get a dummy load on. Check <a href="https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B">here</a> for reason behind this.
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic14.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic14.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic15.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic15.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic16.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic16.jpg" width="252" height="189">
+</a>
 
 Under construction...
