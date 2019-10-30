@@ -74,7 +74,73 @@ I printed a standoff as well and glued it on to support the bracket. The standof
 <img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic17.jpg" width="252" height="189">
 </a>
 
+***
 
+Wiring it up...
+
+    Yellow = GND/Shield/Earth (double check this is indeed shield, in some cables yellow is in connection with red +5V and shield is other wire)
+    White = -12V
+    Brown = +12V
+    Red = +5V
+    Black = 0V/Signal GND
+
+<a href="images/Amiga_PSU_pinout_pic1.jpg">
+<img src="images/Amiga_PSU_pinout_pic1.jpg" width="262" height="200">
+</a>
+<a href="images/Amiga_PSU_pinout_pic2.JPG">
+<img src="images/Amiga_PSU_pinout_pic2.JPG" width="152" height="202">
+</a>
+
+I used some power resistors to get a dummy load on. Check <a href="https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B">here</a> for reason behind this.
+
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic18.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic18.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic19.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic19.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic20.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic20.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic21.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic21.jpg" width="252" height="189">
+</a>
+
+***
+
+Checking potentials and verifying cable...
+
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic22.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic22.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic23.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic23.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic24.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic24.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic25.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic25.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic29.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic29.jpg" width="141" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic30.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic30.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic26.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic26.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic27.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic27.jpg" width="252" height="189">
+</a>
+<a href="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic28.jpg">
+<img src="images/V1/Amiga_Mean_Well_RT-50B_PSU_Mount_V1_pic28.jpg" width="252" height="189">
+</a>
+
+All done version 1!!
+
+***
 
 ### Version 2
 
