@@ -263,10 +263,23 @@ Checking potentials and verifying cable...
 
 All done!
 
+***
+
 Now with another similar PSU Enclosure...
 
 <a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic26.jpg">
 <img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic26.jpg" width="504" height="378">
 </a>
+
+I went medieval with a cutter on the annoying plastic, marked red below, to accomodate the bracket...
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic27.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic27.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic28.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic28.jpg" width="252" height="189">
+</a>
+
+***
 
 Under construction...
