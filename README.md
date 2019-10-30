@@ -231,4 +231,42 @@ I used some power resistors to get a dummy load on. Check <a href="https://githu
 <img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic16.jpg" width="252" height="189">
 </a>
 
+Checking potentials and verifying cable...
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic17.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic17.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic18.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic18.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic19.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic19.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic20.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic20.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic21.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic21.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic22.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic22.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic23.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic23.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic24.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic24.jpg" width="252" height="189">
+</a>
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic25.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic25.jpg" width="252" height="189">
+</a>
+
+All done!
+
+Now with another similar PSU Enclosure...
+
+<a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic26.jpg">
+<img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic26.jpg" width="504" height="378">
+</a>
+
 Under construction...
