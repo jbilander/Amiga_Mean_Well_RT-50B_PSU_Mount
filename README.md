@@ -332,6 +332,8 @@ Made some more clearance for the power wires and mounted the Mean Well PSU.
 <img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic40.jpg" width="252" height="189">
 </a>
 
+***
+
 I used some power resistors to get a dummy load on. Check <a href="https://github.com/jbilander/AmigaPSU_Enclosure_for_Mean_Well_RT-50B">here</a> for reason behind this. The dummy load energy dissipates as heat, hence the placement of the resistors touching the case that acts as a heat sink.
 
 <a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic41.jpg">
@@ -352,6 +354,8 @@ I used some power resistors to get a dummy load on. Check <a href="https://githu
 <a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic46.jpg">
 <img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic46.jpg" width="252" height="189">
 </a>
+
+***
 
 Checking potentials and verifying cable...
 
@@ -379,5 +383,7 @@ Checking potentials and verifying cable...
 <a href="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic55.jpg">
 <img src="images/V2/Amiga_Mean_Well_RT-50B_PSU_Mount_V2_pic55.jpg" width="252" height="189">
 </a>
+
+***
 
 All done!
